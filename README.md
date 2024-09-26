@@ -14,6 +14,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vidankov)](https://git.io/streak-stats)
+
 <!--
 **vidankov/vidankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
