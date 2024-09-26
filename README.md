@@ -1,5 +1,10 @@
 ## Hi there 👋 I`m Viacheslav, beginner programmer on C# and Python.
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxYzN2bzltZXF1YThjcHhxMHNkaWpoOGh2YmZkYTA1cHNicDNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Jpr9KSaXLchW/giphy.gif)" width="100"/>
+</div>
+
+
 <!--
 **vidankov/vidankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
