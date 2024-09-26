@@ -18,7 +18,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vidankov)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vidankov&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=494" alt="GitHub Streak" /></a>
 
 <!--
 **vidankov/vidankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
