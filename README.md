@@ -19,6 +19,7 @@
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vidankov&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=494" alt="GitHub Streak" /></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidankov&layout=compact)
 
 
