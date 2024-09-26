@@ -1,7 +1,7 @@
 ## Hi there 👋 I`m Viacheslav, beginner programmer on C# and Python.
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxYzN2bzltZXF1YThjcHhxMHNkaWpoOGh2YmZkYTA1cHNicDNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Jpr9KSaXLchW/giphy.gif" width="100"/>
+<div id="header" align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxYzN2bzltZXF1YThjcHhxMHNkaWpoOGh2YmZkYTA1cHNicDNzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Jpr9KSaXLchW/giphy.gif" width="300"/>
 </div>
 
 
